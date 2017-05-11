@@ -1,13 +1,13 @@
 <package>
-  <name>rviz_plugin_tutorials</name>
-  <version>0.10.1</version>
+  <name>rviz_plugin_skeleton</name>
+  <version>0.10.2</version>
   <description>
      Tutorials showing how to write plugins for RViz.
   </description>
   <maintainer email="william@osrfoundation.org">William Woodall</maintainer>
   <license>BSD</license>
 
-  <url>http://ros.org/wiki/rviz_plugin_tutorials</url>
+  <url>http://ros.org/wiki/rviz_plugin_skeleton</url>
   <author>Dave Hershberger</author>
 
   <buildtool_depend>catkin</buildtool_depend>

@@ -1,6 +1,6 @@
-<library path="lib/librviz_plugin_tutorials">
-  <class name="rviz_plugin_tutorials/PlantFlag"
-         type="rviz_plugin_tutorials::PlantFlagTool"
+<library path="lib/librviz_plugin_skeleton">
+  <class name="rviz_plugin_skeleton/PlantFlag"
+         type="rviz_plugin_skeleton::PlantFlagTool"
          base_class_type="rviz::Tool">
     <description>
       Tool for planting flags on the ground plane in rviz.

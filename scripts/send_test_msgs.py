@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import roslib; roslib.load_manifest( 'rviz_plugin_tutorials' )
+import roslib; roslib.load_manifest( 'rviz_plugin_skeleton' )
 from sensor_msgs.msg import Imu
 import rospy
 from math import cos, sin

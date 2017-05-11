@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package rviz_plugin_tutorials
+Changelog for package rviz_plugin_skeleton
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+0.10.2
+-------------------
+* Extracted minimal skeleton code
+* Contributors: Corey Walsh
 
 0.10.1 (2016-04-21)
 -------------------

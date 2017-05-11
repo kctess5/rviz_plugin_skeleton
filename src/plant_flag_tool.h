@@ -44,7 +44,7 @@ class VisualizationManager;
 class ViewportMouseEvent;
 }
 
-namespace rviz_plugin_tutorials
+namespace rviz_plugin_skeleton
 {
 
 // BEGIN_TUTORIAL
@@ -78,6 +78,6 @@ private:
 };
 // END_TUTORIAL
 
-} // end namespace rviz_plugin_tutorials
+} // end namespace rviz_plugin_skeleton
 
 #endif // PLANT_FLAG_TOOL_H
