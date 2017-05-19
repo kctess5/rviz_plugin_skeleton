@@ -7,6 +7,6 @@ Add this directory to your src/ directory of a ROS workspace. Execute catkin_mak
 
 ## To test
 
-First, launch Rviz.
-Click the + button on the toolbar, and select PlantFlag
-You should be able to add flags to your map
+- First, launch Rviz.
+- Click the + button on the toolbar, and select PlantFlag
+- You should be able to add flags to your map
